@@ -25,7 +25,7 @@ you have come to the right place
             </li>
             <li>
               <div className="vit box">
-                <p className='name'>Bachelor's Degree</p>
+                <p className='name'>Bachelors Degree</p>
                 <p className='place'>Vellore Institute Of Technology,Chennai</p>
               </div>
             </li>
