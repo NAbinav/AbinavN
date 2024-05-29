@@ -5,8 +5,8 @@ const Me = () => {
     <div style={{ height: '100dvh',display:"contents"}} className='hidden'>
         <h1 id="" className='about'>ABOUT ME</h1>
         <p id='hey-guys' className=''>Hey guys,
-My name is <span className=' font-bold'>Abinav N</span> and I'm a Second-year <span className='font-bold'>Electronics and Computer Science </span>student at <span className='font-bold'>VIT Chennai</span>.<br/>
-I'm intrested in working as a Front end Devoloper and if you need a guy to make a website for you,
+My name is <span className=' font-bold'>Abinav N</span> and I am a Second-year <span className='font-bold'>Electronics and Computer Science </span>student at <span className='font-bold'>VIT Chennai</span>.<br/>
+I am intrested in working as a Front end Devoloper and if you need a guy to make a website for you,
 you have come to the right place
         </p>
         <div className="education" style={{justifyContent:'center',alignContent:'center',alignItems:'center'}}>
